@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysql_lin": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "mysql://root:12345678@localhost/employer",
+    "database": "employer",
+    "password": "12345678",
+    "name": "mysql_lin",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
